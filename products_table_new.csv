@@ -1,0 +1,265 @@
+product_id,product_name,product_category,price,quantity_in_stock,seller_id
+1,Asparagus,Fresh vegetables,21,121,1
+2,Broccoli,Fresh vegetables,13,113,2
+3,Carrots,Fresh vegetables,17,128,2
+4,Cauliflower,Fresh vegetables,19,81,2
+5,Celery,Fresh vegetables,22,125,1
+6,Corn,Fresh vegetables,21,82,2
+7,Cucumbers,Fresh vegetables,21,136,2
+8,Lettuce,Fresh vegetables,22,97,2
+9,Greens,Fresh vegetables,15,84,2
+10,Mushrooms,Fresh vegetables,21,149,2
+11,Onions,Fresh vegetables,19,81,2
+12,Peppers,Fresh vegetables,13,129,1
+13,Potatoes,Fresh vegetables,16,133,1
+14,Spinach,Fresh vegetables,19,128,1
+15,Squash,Fresh vegetables,18,103,1
+16,Zucchini,Fresh vegetables,17,130,2
+17,Tomatoes*,Fresh vegetables,14,89,2
+18,BBQ sauce,Condiments / Sauces,24,141,4
+19,Gravy,Condiments / Sauces,16,86,4
+20,Honey,Condiments / Sauces,18,83,4
+21,Hot sauce,Condiments / Sauces,25,107,4
+22,Jam,Condiments / Sauces,19,103,4
+23,Jelly,Condiments / Sauces,16,94,3
+24,Preserves,Condiments / Sauces,23,97,4
+25,Ketchup,Condiments / Sauces,23,121,4
+26,Mustard,Condiments / Sauces,20,95,3
+27,Mayonnaise,Condiments / Sauces,18,146,4
+28,Pasta sauce,Condiments / Sauces,16,84,3
+29,Relish,Condiments / Sauces,25,101,3
+30,Salad dressing,Condiments / Sauces,25,104,3
+31,Salsa,Condiments / Sauces,20,103,3
+32,Soy sauce,Condiments / Sauces,21,135,3
+33,Steak sauce,Condiments / Sauces,18,136,3
+34,Syrup,Condiments / Sauces,20,103,4
+35,Worcestershire sauce,Condiments / Sauces,24,99,3
+36,Butter,Dairy,12,121,6
+37,Margarine,Dairy,7,92,5
+38,Cottage cheese,Dairy,10,120,5
+39,Half & half,Dairy,14,115,5
+40,Milk,Dairy,8,116,6
+41,Sour cream,Dairy,9,80,6
+42,Whipped cream,Dairy,13,81,5
+43,Yogurt,Dairy,13,145,5
+44,Apples,Fresh fruits,13,108,7
+45,Avocados,Fresh fruits,13,128,7
+46,Bananas,Fresh fruits,20,82,7
+47,Berries,Fresh fruits,22,90,7
+48,Cherries,Fresh fruits,18,116,8
+49,Grapefruit,Fresh fruits,20,93,7
+50,Grapes,Fresh fruits,20,112,7
+51,Kiwis,Fresh fruits,21,112,8
+52,Lemons,Fresh fruits,16,142,7
+53,Limes,Fresh fruits,19,123,8
+54,Melon,Fresh fruits,17,134,8
+55,Nectarines,Fresh fruits,15,112,8
+56,Oranges,Fresh fruits,13,98,8
+57,Peaches,Fresh fruits,16,101,7
+58,Pears,Fresh fruits,14,108,7
+59,Plums,Fresh fruits,14,89,8
+60,Bouillon cubes,Various groceries,14,132,10
+61,Cereal,Various groceries,20,109,10
+62,Coffee,Various groceries,12,90,9
+63,Filters,Various groceries,20,98,10
+64,Instant potatoes,Various groceries,16,101,10
+65,Lemon,Various groceries,15,147,9
+66,Lime juice,Various groceries,19,99,9
+67,Mac & cheese,Various groceries,13,149,10
+68,Olive oil,Various groceries,12,85,10
+69,Packaged meals,Various groceries,17,147,9
+70,Pancake,Various groceries,17,99,10
+71,Waffle mix,Various groceries,20,141,10
+72,Pasta,Various groceries,16,115,9
+73,Peanut butter,Various groceries,13,108,10
+74,Pickles,Various groceries,13,119,9
+75,Rice,Various groceries,15,107,9
+76,Tea,Various groceries,18,137,9
+77,Vegetable oil,Various groceries,19,81,10
+78,Vinegar,Various groceries,13,140,10
+79,Bleu cheese,Cheese,20,132,12
+80,Cheddar,Cheese,20,109,12
+81,Cottage cheese,Cheese,23,135,12
+82,Cream cheese,Cheese,24,91,12
+83,Feta,Cheese,23,139,11
+84,Goat cheese,Cheese,21,124,11
+85,Mozzarella,Cheese,20,130,11
+86,Parmesan,Cheese,22,101,11
+87,Provolone,Cheese,23,148,12
+88,Ricotta,Cheese,20,82,11
+89,Sandwich slices,Cheese,19,121,12
+90,Swiss,Cheese,17,138,11
+91,Applesauce,Canned foods,28,140,14
+92,Baked beans,Canned foods,21,100,14
+93,Broth,Canned foods,27,111,13
+94,Fruit,Canned foods,29,96,13
+95,Olives,Canned foods,24,102,14
+96,Tinned meats,Canned foods,23,100,14
+97,Tuna,Canned foods,21,103,13
+98,Chicken,Canned foods,29,129,13
+99,Soup,Canned foods,28,109,13
+100,Chili,Canned foods,27,118,14
+101,Tomatoes,Canned foods,24,114,13
+102,Veggies,Canned foods,23,131,13
+103,Bagels,Refrigerated items,20,117,15
+104,Chip dip,Refrigerated items,16,107,15
+105,Eggs,Refrigerated items,17,138,15
+106,Fake eggs,Refrigerated items,15,90,16
+107,English muffins,Refrigerated items,16,114,15
+108,Fruit juice,Refrigerated items,11,121,15
+109,Hummus,Refrigerated items,14,108,15
+110,Ready-bake breads,Refrigerated items,20,95,15
+111,Tofu,Refrigerated items,20,97,15
+112,Tortillas,Refrigerated items,14,128,16
+113,Breakfasts,Frozen,27,109,18
+114,Burritos,Frozen,20,102,17
+115,Fish sticks,Frozen,26,101,18
+116,Fries,Frozen,27,93,18
+117,Tater tots,Frozen,28,113,18
+118,Ice cream,Frozen,26,88,17
+119,Sorbet,Frozen,22,97,17
+120,Juice concentrate,Frozen,21,109,18
+121,Pizza,Frozen,27,84,18
+122,Pizza Rolls,Frozen,28,95,18
+123,Popsicles,Frozen,24,142,18
+124,TV dinners,Frozen,28,89,18
+125,Vegetables,Frozen,27,132,17
+126,Bagels,Baked goods,24,128,19
+127,Croissants,Baked goods,29,112,20
+128,Buns,Baked goods,30,122,19
+129,Rolls,Baked goods,29,141,20
+130,Cake,Baked goods,24,96,20
+131,Cookies,Baked goods,23,82,20
+132,Donuts,Baked goods,29,112,20
+133,Pastries,Baked goods,22,132,20
+134,Fresh bread,Baked goods,28,103,20
+135,Pie! Pie! Pie!,Baked goods,26,112,19
+136,Pita bread,Baked goods,27,96,19
+137,Sliced bread,Baked goods,23,110,20
+138,Candy,Snacks,32,133,22
+139,Gum,Snacks,30,110,22
+140,Cookies,Snacks,27,133,22
+141,Crackers,Snacks,31,120,21
+142,Dried fruit,Snacks,32,121,22
+143,Granola bars,Snacks,32,131,22
+144,Mix,Snacks,32,122,22
+145,Nuts,Snacks,28,129,22
+146,Seeds,Snacks,30,144,21
+147,Oatmeal,Snacks,28,107,22
+148,Popcorn,Snacks,27,86,21
+149,Potato,Snacks,33,138,22
+150,Corn chips,Snacks,32,145,22
+151,Pretzels,Snacks,27,86,21
+152,Catfish,Seafood,10,84,24
+153,Crab,Seafood,12,135,23
+154,Lobster,Seafood,18,130,23
+155,Mussels,Seafood,11,94,23
+156,Bacon,Meat,15,129,25
+157,Sausage,Meat,9,149,26
+158,Beef,Meat,11,123,25
+159,Chicken,Meat,12,109,25
+160,Ground beef,Meat,11,148,25
+161,Turkey,Meat,12,95,26
+162,Ham,Meat,7,98,25
+163,Pork,Meat,10,115,25
+164,Hot dogs,Meat,8,130,25
+165,Lunchmeat,Meat,13,128,26
+166,Turkey,Meat,7,142,25
+167,Baking powder,Baking,11,96,28
+168,Soda,Baking,15,90,27
+169,Bread crumbs,Baking,11,111,28
+170,Cake,Baking,10,133,27
+171,Brownie mix,Baking,9,104,27
+172,Cake icing,Baking,13,145,28
+173,Decorations,Baking,9,90,28
+174,Chocolate chips,Baking,11,149,28
+175,Cocoa,Baking,13,141,28
+176,Flour,Baking,8,115,27
+177,Shortening,Baking,8,92,27
+178,Sugar,Baking,12,119,28
+179,Sugar substitute,Baking,14,141,27
+180,Yeast,Baking,11,125,27
+181,Antiperspirant,Personal care,22,80,30
+182,Deodorant,Personal care,22,124,29
+183,Bath soap,Personal care,27,96,30
+184,Hand soap,Personal care,18,112,30
+185,Condoms,Personal care,25,148,30
+186,Other b.c.,Personal care,21,100,30
+187,Cosmetics,Personal care,25,132,29
+188,Cotton swabs,Personal care,23,95,29
+189,Balls,Personal care,26,117,29
+190,Facial cleanser,Personal care,20,120,29
+191,Facial tissue,Personal care,18,130,30
+192,Feminine products,Personal care,27,120,30
+193,Floss,Personal care,25,104,29
+194,Hair gel,Personal care,18,91,30
+195,Spray,Personal care,27,96,29
+196,Lip balm,Personal care,22,104,29
+197,Moisturizing lotion,Personal care,27,148,30
+198,Mouthwash,Personal care,26,104,29
+199,Razors,Personal care,23,100,30
+200,Shaving cream,Personal care,24,87,30
+201,Shampoo,Personal care,27,86,30
+202,Conditioner,Personal care,18,147,30
+203,Sunblock,Personal care,26,114,30
+204,Toilet paper,Personal care,27,116,29
+205,Toothpaste,Personal care,24,114,30
+206,Vitamins,Personal care,25,145,30
+207,Supplements,Personal care,22,142,29
+208,Allergy,Medicine,30,122,31
+209,Antibiotic,Medicine,26,134,31
+210,Antidiarrheal,Medicine,30,138,32
+211,Aspirin,Medicine,28,122,32
+212,Antacid,Medicine,31,148,31
+213,Band-aids,Medicine,32,84,31
+214,Medical,Medicine,31,118,32
+215,Cold,Medicine,23,80,31
+216,Flu,Medicine,31,119,32
+217,Sinus,Medicine,23,144,32
+218,Pain reliever,Medicine,23,130,31
+219,Prescription pick-up,Medicine,24,147,32
+220,Aluminum foil,Kitchen,9,141,34
+221,Napkins,Kitchen,15,105,33
+222,Non-stick spray,Kitchen,18,89,33
+223,Paper towels,Kitchen,10,93,33
+224,Plastic wrap,Kitchen,15,117,33
+225,Sandwich,Kitchen,12,117,34
+226,Freezer bags,Kitchen,13,94,33
+227,Wax paper,Kitchen,16,106,34
+228,Air freshener,Cleaning products,13,140,36
+229,Bathroom cleaner,Cleaning products,16,147,35
+230,Bleach,Cleaning products,10,147,36
+231,Detergent,Cleaning products,16,118,35
+232,Dish,Cleaning products,8,141,35
+233,Dishwasher soap,Cleaning products,8,108,36
+234,Garbage bags,Cleaning products,17,124,35
+235,Glass cleaner,Cleaning products,16,114,35
+236,Mop head,Cleaning products,12,101,35
+237,Vacuum bags,Cleaning products,13,103,36
+238,Sponges,Cleaning products,15,111,35
+239,Scrubbers,Cleaning products,13,92,35
+240,Automotive,Other stuff,14,113,38
+241,Batteries,Other stuff,12,89,38
+242,Charcoal,Other stuff,12,126,38
+243,Propane,Other stuff,21,96,38
+244,Flowers,Other stuff,21,111,37
+245,Greeting card,Other stuff,13,116,37
+246,Insect repellent,Other stuff,12,134,38
+247,Light bulbs,Other stuff,19,81,37
+248,Newspaper,Other stuff,20,140,37
+249,Magazine,Other stuff,20,94,37
+250,Arsenic,Carcinogens,12,103,39
+251,Asbestos,Carcinogens,7,127,39
+252,Cigarettes,Carcinogens,10,137,39
+253,Radionuclides,Carcinogens,9,112,39
+254,Vinyl chloride,Carcinogens,15,125,40
+255,CDRs,Office supplies,15,117,41
+256,DVDRs,Office supplies,12,113,42
+257,Notepad,Office supplies,17,130,41
+258,Envelopes,Office supplies,18,96,41
+259,Glue,Office supplies,12,118,42
+260,Tape,Office supplies,14,110,41
+261,Printer paper,Office supplies,10,90,42
+262,Pens,Office supplies,15,92,42
+263,Pencils,Office supplies,17,125,42
+264,Postage stamps,Office supplies,17,140,41

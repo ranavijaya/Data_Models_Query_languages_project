@@ -1,0 +1,465 @@
+customer_id,customer_city,customer_state
+1,Los Angeles,California
+2,Los Angeles,California
+3,Chicago,Illinois
+4,Chicago,Illinois
+5,Chicago,Illinois
+6,Houston,Texas
+7,Houston,Texas
+8,Phoenix,Arizona
+9,Phoenix,Arizona
+10,Phoenix,Arizona
+11,San Antonio,Texas
+12,San Diego,California
+13,San Diego,California
+14,Dallas,Texas
+15,Austin,Texas
+16,Austin,Texas
+17,San Jose,California
+18,San Jose,California
+19,Fort Worth,Texas
+20,Fort Worth,Texas
+21,Jacksonville,Florida
+22,Jacksonville,Florida
+23,Charlotte,North Carolina
+24,Charlotte,North Carolina
+25,Columbus,Ohio
+26,Columbus,Ohio
+27,Columbus,Ohio
+28,Indianapolis,Indiana
+29,San Francisco,California
+30,San Francisco,California
+31,San Francisco,California
+32,Denver,Colorado
+33,El Paso,Texas
+34,El Paso,Texas
+35,El Paso,Texas
+36,Nashville,Tennessee
+37,Oklahoma City,Oklahoma
+38,Oklahoma City,Oklahoma
+39,Oklahoma City,Oklahoma
+40,Las Vegas,Nevada
+41,Las Vegas,Nevada
+42,Portland,Oregon
+43,Portland,Oregon
+44,Detroit,Michigan
+45,Detroit,Michigan
+46,Detroit,Michigan
+47,Memphis,Tennessee
+48,Memphis,Tennessee
+49,Milwaukee,Wisconsin
+50,Milwaukee,Wisconsin
+51,Milwaukee,Wisconsin
+52,Baltimore,Maryland
+53,Baltimore,Maryland
+54,Baltimore,Maryland
+55,Albuquerque,New Mexico
+56,Albuquerque,New Mexico
+57,Tucson,Arizona
+58,Tucson,Arizona
+59,Tucson,Arizona
+60,Mesa,Arizona
+61,Mesa,Arizona
+62,Fresno,California
+63,Atlanta,Georgia
+64,Atlanta,Georgia
+65,Atlanta,Georgia
+66,Sacramento,California
+67,Sacramento,California
+68,Sacramento,California
+69,Kansas City,Missouri
+70,Kansas City,Missouri
+71,Colorado Springs,Colorado
+72,Colorado Springs,Colorado
+73,Colorado Springs,Colorado
+74,Raleigh,North Carolina
+75,Raleigh,North Carolina
+76,Miami,Florida
+77,Omaha,Nebraska
+78,Long Beach,California
+79,Long Beach,California
+80,Oakland,California
+81,Minneapolis,Minnesota
+82,Minneapolis,Minnesota
+83,Minneapolis,Minnesota
+84,Tampa,Florida
+85,Tampa,Florida
+86,Tulsa,Oklahoma
+87,Tulsa,Oklahoma
+88,Tulsa,Oklahoma
+89,Arlington,Texas
+90,Arlington,Texas
+91,Arlington,Texas
+92,Aurora,Colorado
+93,Wichita,Kansas
+94,Wichita,Kansas
+95,Wichita,Kansas
+96,Bakersfield,California
+97,Bakersfield,California
+98,New Orleans,Louisiana
+99,New Orleans,Louisiana
+100,New Orleans,Louisiana
+101,Cleveland,Ohio
+102,Cleveland,Ohio
+103,Cleveland,Ohio
+104,Henderson,Nevada
+105,Henderson,Nevada
+106,Henderson,Nevada
+107,Anaheim,California
+108,Riverside,California
+109,Riverside,California
+110,Riverside,California
+111,Santa Ana,California
+112,Corpus Christi,Texas
+113,Corpus Christi,Texas
+114,Stockton,California
+115,Stockton,California
+116,St. Paul,Minnesota
+117,St. Paul,Minnesota
+118,Cincinnati,Ohio
+119,Cincinnati,Ohio
+120,Irvine,California
+121,Irvine,California
+122,Irvine,California
+123,Greensboro,North Carolina
+124,Lincoln,Nebraska
+125,Lincoln,Nebraska
+126,Lincoln,Nebraska
+127,Durham,North Carolina
+128,Durham,North Carolina
+129,Orlando,Florida
+130,Orlando,Florida
+131,St. Louis,Missouri
+132,St. Louis,Missouri
+133,St. Louis,Missouri
+134,Chula Vista,California
+135,Plano,Texas
+136,Newark,New Jersey
+137,Newark,New Jersey
+138,Newark,New Jersey
+139,Fort Wayne,Indiana
+140,Fort Wayne,Indiana
+141,Chandler,Arizona
+142,Chandler,Arizona
+143,Chandler,Arizona
+144,Reno,Nevada
+145,Reno,Nevada
+146,Reno,Nevada
+147,North Las Vegas,Nevada
+148,Scottsdale,Arizona
+149,Scottsdale,Arizona
+150,St. Petersburg,Florida
+151,St. Petersburg,Florida
+152,St. Petersburg,Florida
+153,Laredo,Texas
+154,Gilbert,Arizona
+155,Toledo,Ohio
+156,Toledo,Ohio
+157,Lubbock,Texas
+158,Lubbock,Texas
+159,Lubbock,Texas
+160,Madison,Wisconsin
+161,Glendale,Arizona
+162,Jersey City,New Jersey
+163,Winston-Salem,North Carolina
+164,Winston-Salem,North Carolina
+165,Fremont,California
+166,Fremont,California
+167,Fremont,California
+168,Frisco,Texas
+169,Frisco,Texas
+170,Frisco,Texas
+171,Paradise,Nevada
+172,Paradise,Nevada
+173,Paradise,Nevada
+174,Irving,Texas
+175,Irving,Texas
+176,Garland,Texas
+177,Garland,Texas
+178,Garland,Texas
+179,Boise,Idaho
+180,Boise,Idaho
+181,Boise,Idaho
+182,Hialeah,Florida
+183,Hialeah,Florida
+184,Hialeah,Florida
+185,Moreno Valley,California
+186,Moreno Valley,California
+187,Port St. Lucie,Florida
+188,McKinney,Texas
+189,McKinney,Texas
+190,Fontana,California
+191,Fontana,California
+192,Modesto,California
+193,Modesto,California
+194,Fayetteville,North Carolina
+195,Baton Rouge,Louisiana
+196,Baton Rouge,Louisiana
+197,San Bernardino,California
+198,San Bernardino,California
+199,San Bernardino,California
+200,Santa Clarita,California
+201,Santa Clarita,California
+202,Santa Clarita,California
+203,Cape Coral,Florida
+204,Cape Coral,Florida
+205,Cape Coral,Florida
+206,Des Moines,Iowa
+207,Tempe,Arizona
+208,Huntsville,Alabama
+209,Huntsville,Alabama
+210,Huntsville,Alabama
+211,Oxnard,California
+212,Oxnard,California
+213,Spring Valley,Nevada
+214,Birmingham,Alabama
+215,Birmingham,Alabama
+216,Overland Park,Kansas
+217,Overland Park,Kansas
+218,Grand Rapids,Michigan
+219,Salt Lake City,Utah
+220,Salt Lake City,Utah
+221,Columbus,Georgia
+222,Augusta,Georgia
+223,Amarillo,Texas
+224,Amarillo,Texas
+225,Amarillo,Texas
+226,Tallahassee,Florida
+227,Ontario,California
+228,Ontario,California
+229,Montgomery,Alabama
+230,Montgomery,Alabama
+231,Montgomery,Alabama
+232,Little Rock,Arkansas
+233,Little Rock,Arkansas
+234,Akron,Ohio
+235,Huntington Beach,California
+236,Grand Prairie,Texas
+237,Glendale,California
+238,Sioux Falls,South Dakota
+239,Sioux Falls,South Dakota
+240,Sioux Falls,South Dakota
+241,Sunrise Manor,Nevada
+242,Sunrise Manor,Nevada
+243,Sunrise Manor,Nevada
+244,Aurora,Illinois
+245,Knoxville,Tennessee
+246,Peoria,Arizona
+247,Mobile,Alabama
+248,Mobile,Alabama
+249,Mobile,Alabama
+250,Chattanooga,Tennessee
+251,Chattanooga,Tennessee
+252,Chattanooga,Tennessee
+253,Brownsville,Texas
+254,Fort Lauderdale,Florida
+255,Elk Grove,California
+256,Elk Grove,California
+257,Elk Grove,California
+258,Providence,Rhode Island
+259,Providence,Rhode Island
+260,Shreveport,Louisiana
+261,Shreveport,Louisiana
+262,Shreveport,Louisiana
+263,Salem,Oregon
+264,Salem,Oregon
+265,Salem,Oregon
+266,Pembroke Pines,Florida
+267,Pembroke Pines,Florida
+268,Pembroke Pines,Florida
+269,Eugene,Oregon
+270,Eugene,Oregon
+271,Eugene,Oregon
+272,Rancho Cucamonga,California
+273,Cary,North Carolina
+274,Santa Rosa,California
+275,Santa Rosa,California
+276,Fort Collins,Colorado
+277,Oceanside,California
+278,Oceanside,California
+279,Oceanside,California
+280,Corona,California
+281,Corona,California
+282,Enterprise,Nevada
+283,Enterprise,Nevada
+284,Garden Grove,California
+285,Garden Grove,California
+286,Garden Grove,California
+287,Springfield,Missouri
+288,Clarksville,Tennessee
+289,Clarksville,Tennessee
+290,Murfreesboro,Tennessee
+291,Murfreesboro,Tennessee
+292,Lakewood,Colorado
+293,Lakewood,Colorado
+294,Killeen,Texas
+295,Killeen,Texas
+296,Midland,Texas
+297,Hayward,California
+298,Hayward,California
+299,Hollywood,Florida
+300,Salinas,California
+301,Lancaster,California
+302,Lancaster,California
+303,Lancaster,California
+304,Macon,Georgia
+305,Surprise,Arizona
+306,Kansas City,Kansas
+307,Kansas City,Kansas
+308,Kansas City,Kansas
+309,Sunnyvale,California
+310,Sunnyvale,California
+311,Sunnyvale,California
+312,Palmdale,California
+313,Denton,Texas
+314,Denton,Texas
+315,Jackson,Mississippi
+316,Jackson,Mississippi
+317,Jackson,Mississippi
+318,Escondido,California
+319,Escondido,California
+320,Escondido,California
+321,Pomona,California
+322,Naperville,Illinois
+323,Roseville,California
+324,Roseville,California
+325,Roseville,California
+326,Thornton,Colorado
+327,Thornton,Colorado
+328,Round Rock,Texas
+329,Pasadena,Texas
+330,Joliet,Illinois
+331,Joliet,Illinois
+332,Joliet,Illinois
+333,Carrollton,Texas
+334,Carrollton,Texas
+335,McAllen,Texas
+336,Paterson,New Jersey
+337,Paterson,New Jersey
+338,Rockford,Illinois
+339,Rockford,Illinois
+340,Waco,Texas
+341,Waco,Texas
+342,Bridgeport,Connecticut
+343,Miramar,Florida
+344,Olathe,Kansas
+345,Olathe,Kansas
+346,Olathe,Kansas
+347,Metairie,Louisiana
+348,Albany,New YorK
+349,Albany,New YorK
+350,Amsterdam,New YorK
+351,Amsterdam,New YorK
+352,Amsterdam,New YorK
+353,Auburn,New YorK
+354,Auburn,New YorK
+355,Auburn,New YorK
+356,Batavia,New YorK
+357,Batavia,New YorK
+358,Batavia,New YorK
+359,Beacon,New YorK
+360,Beacon,New YorK
+361,Beacon,New YorK
+362,Binghamton,New YorK
+363,Buffalo,New YorK
+364,Buffalo,New YorK
+365,Canandaigua,New YorK
+366,Canandaigua,New YorK
+367,Canandaigua,New YorK
+368,Cohoes,New YorK
+369,Cohoes,New YorK
+370,Corning,New YorK
+371,Cortland,New YorK
+372,Dunkirk,New YorK
+373,Elmira,New YorK
+374,Fulton,New YorK
+375,Geneva,New YorK
+376,Geneva,New YorK
+377,Geneva,New YorK
+378,Glen Cove,New YorK
+379,Glens Falls,New YorK
+380,Gloversville,New YorK
+381,Hornell,New YorK
+382,Hornell,New YorK
+383,Hornell,New YorK
+384,Hudson,New YorK
+385,Hudson,New YorK
+386,Ithaca,New YorK
+387,Ithaca,New YorK
+388,Jamestown,New YorK
+389,Jamestown,New YorK
+390,Jamestown,New YorK
+391,Johnstown,New YorK
+392,Johnstown,New YorK
+393,Kingston,New YorK
+394,Kingston,New YorK
+395,Kingston,New YorK
+396,Lackawanna,New YorK
+397,Lackawanna,New YorK
+398,Lackawanna,New YorK
+399,Little Falls,New YorK
+400,Lockport,New YorK
+401,Long Beach,New YorK
+402,Long Beach,New YorK
+403,Long Beach,New YorK
+404,Mechanicville,New YorK
+405,Mechanicville,New YorK
+406,Middletown,New YorK
+407,Middletown,New YorK
+408,Middletown,New YorK
+409,Mount Vernon,New YorK
+410,New Rochelle,New YorK
+411,New York City,New YorK
+412,New York City,New YorK
+413,Newburgh,New YorK
+414,Newburgh,New YorK
+415,Niagara Falls,New YorK
+416,Niagara Falls,New YorK
+417,North Tonawanda,New YorK
+418,North Tonawanda,New YorK
+419,North Tonawanda,New YorK
+420,Norwich,New YorK
+421,Norwich,New YorK
+422,Ogdensburg,New YorK
+423,Ogdensburg,New YorK
+424,Olean,New YorK
+425,Oneida,New YorK
+426,Oneida,New YorK
+427,Oneida,New YorK
+428,Oneonta,New YorK
+429,Oswego,New YorK
+430,Peekskill,New YorK
+431,Plattsburgh,New YorK
+432,Plattsburgh,New YorK
+433,Port Jervis,New YorK
+434,Port Jervis,New YorK
+435,Port Jervis,New YorK
+436,Poughkeepsie,New YorK
+437,Rensselaer,New YorK
+438,Rochester,New YorK
+439,Rome,New YorK
+440,Rye,New YorK
+441,Rye,New YorK
+442,Rye,New YorK
+443,Salamanca,New YorK
+444,Saratoga Springs,New YorK
+445,Saratoga Springs,New YorK
+446,Schenectady,New YorK
+447,Sherrill,New YorK
+448,Sherrill,New YorK
+449,Syracuse,New YorK
+450,Syracuse,New YorK
+451,Syracuse,New YorK
+452,Tonawanda,New YorK
+453,Troy,New YorK
+454,Troy,New YorK
+455,Troy,New YorK
+456,Utica,New YorK
+457,Utica,New YorK
+458,Utica,New YorK
+459,Watertown,New YorK
+460,Watervliet,New YorK
+461,White Plains,New YorK
+462,Yonkers,New YorK
+463,Yonkers,New YorK
+464,Yonkers,New YorK
